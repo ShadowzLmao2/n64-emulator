@@ -1,0 +1,13 @@
+TODO:
+- Everything, literally everything
+- Planning
+  - What do we need?
+- Coding
+  - Reverse Engineer ROMs?
+  - Helper Functions
+  - Main Code
+  - Compile into an app
+  - Port to Mac, Linux, Mobile(?)
+- Publishing?
+  - Make publicly available
+  - Have ROMs work?
